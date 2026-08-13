@@ -6,9 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-anharmy05%40gmail.com-333333?style=flat-square\&logo=gmail\&logoColor=white)](mailto:anharmy05@gmail.com)
 
-<br>
-
-*Interested in data, algorithms, and building practical solutions through research.*
+*Interested in data analysis, data mining, and practical algorithm development.*
 
 </div>
 
@@ -16,45 +14,32 @@
 
 ## About Me
 
-I am a **final-year Information Systems student** with an interest in **data analysis, data mining, and algorithm optimization**.
+I am a **final-year Information Systems student** interested in **data analysis, data mining, and algorithm optimization**.
 
-My current academic work focuses on **Target Sequential Rule Mining (TaSRM) combined with Genetic Algorithms**, where I study how evolutionary search can be applied to improve the efficiency of sequential rule mining.
+My current academic work focuses on **Target Sequential Rule Mining (TaSRM) combined with Genetic Algorithms**, with an emphasis on exploring efficient approaches to sequential rule mining.
 
-I enjoy working with data, understanding how algorithms work, and turning research ideas into practical implementations.
-
-### What I work on
-
-* Data analysis and preprocessing with Python
-* Data mining and sequential pattern mining
-* Genetic Algorithms and algorithm optimization
-* Research-oriented Python development
-* Basic UI/UX design with Figma
+Through my projects and research, I have been developing practical experience in **Python, data processing, database systems, and algorithm implementation**.
 
 ---
 
 ## Tech Stack
 
-**Data & Programming**
+### Data & Programming
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34" alt="Python"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="34" alt="Pandas"/>
-&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="34" alt="Scikit-learn"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
 
-**Databases**
+### Databases
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="38" alt="MongoDB"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="34" alt="Oracle"/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square\&logo=oracle\&logoColor=white)
 
-**Design & Productivity**
+### Design & Productivity
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-icon.svg" width="34" alt="Figma"/>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
 
-<br>
-
-Microsoft Word · Excel · Google Sheets
+Microsoft Word · Microsoft Excel · Google Sheets
 
 ---
 
@@ -64,17 +49,17 @@ Microsoft Word · Excel · Google Sheets
 
 **Graduation Thesis · Information Systems**
 
-My current research explores the combination of **Target Sequential Rule Mining (TaSRM)** and **Genetic Algorithms (GA)** for sequential rule mining.
+My graduation research explores the combination of **Target Sequential Rule Mining (TaSRM)** and **Genetic Algorithms (GA)** for sequential rule mining.
 
 The research focuses on:
 
-* Representing and processing sequence databases efficiently
-* Mining sequential patterns and sequential rules
-* Applying Genetic Algorithms to search for candidate rules
-* Using pruning strategies to reduce unnecessary search
-* Evaluating algorithm performance through runtime and memory usage
+* Sequential pattern and rule mining
+* Sequence database representation and processing
+* Genetic Algorithm-based search
+* Pruning strategies for reducing unnecessary search
+* Evaluation of runtime and memory consumption
 
-The goal is to explore whether evolutionary search can provide a more efficient approach to sequential rule mining while maintaining the required rule constraints.
+The main objective is to investigate how evolutionary search can be applied to improve the efficiency of sequential rule mining while maintaining the required rule constraints.
 
 ---
 
@@ -82,21 +67,21 @@ The goal is to explore whether evolutionary search can provide a more efficient 
 
 ### Sequential Rule Mining with Genetic Algorithms
 
-A research-oriented implementation of **TaSRM combined with Genetic Algorithms**, developed as part of my graduation thesis.
+A research-oriented implementation developed as part of my graduation thesis.
 
 **Focus:**
-`Sequence Mining` · `Genetic Algorithm` · `Algorithm Optimization` · `Python`
+`TaSRM` · `Genetic Algorithm` · `Sequence Mining` · `Python`
 
 ---
 
 ### Data Analysis Projects
 
-Exploring practical data analysis problems through Python, including:
+Practical data analysis projects covering different stages of the data workflow, including:
 
-* Data preprocessing and cleaning
+* Data cleaning and preprocessing
 * Exploratory data analysis
-* Customer segmentation
 * Feature analysis
+* Customer segmentation
 * Machine learning experiments
 
 **Tools:**
@@ -106,19 +91,20 @@ Exploring practical data analysis problems through Python, including:
 
 ## Currently Learning
 
-* Advanced data mining techniques
+* Data mining and pattern discovery
 * Evolutionary algorithms
 * Algorithm optimization
 * Data analysis with Python
-* Research methodology and technical writing
+* Database systems
+* Research methodology
 
 ---
 
-## Goals
+## What I'm Looking For
 
-As I approach graduation, I am looking to strengthen my practical experience in **data analysis, data-related development, and research-oriented projects**.
+As I approach graduation, I am looking to gain more practical experience in **data analysis, data-related development, and research-oriented projects**.
 
-I am particularly interested in opportunities where I can continue learning, work with real-world data, and improve my ability to turn technical ideas into working solutions.
+I am interested in opportunities where I can work with real-world data, strengthen my technical skills, and continue learning through practical projects.
 
 ---
 
